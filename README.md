@@ -1,4 +1,4 @@
-# BMI-Calculator-
+# BMI-Calculator
 Instructions
 - Under 18.5 they are underweight\n
 - Over 18.5 but below 25 they have a normal weight
